@@ -11,6 +11,7 @@ Team Triada is committed to protecting digital landscapes through innovative sol
 
 - **[Adarsh SR](https://github.com/Adarsh-S-R)**
 - **Abhishek Vincent**
+- **[Hridhik S](https://github.com/Hridhikjester)**
 
 ## Stay Updated
 
